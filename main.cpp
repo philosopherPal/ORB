@@ -330,9 +330,9 @@ int main()
     cout<<"A="<<A<<"\n";
     cout<<"A+B="<<AnB<<"\n";
     float P = (A/(AnB));
-    cout<<"P="<<P<<"\n";
+    cout<<"Precision="<<P<<"\n";
     float R = (A/448);
-    cout<<"R="<<R<<"\n";
+    cout<<"Recall="<<R<<"\n";
 #endif
      printf("\ndone\n");
 return 0;
